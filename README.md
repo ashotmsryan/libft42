@@ -6,7 +6,7 @@ standard functions. This project is about understanding the way these functions 
 
 <h3>Functions from ctype.h </h3>
     <p>
-    <br>ft_isalpha - checks for an alphabetic character.</p>br
+    <br>ft_isalpha - checks for an alphabetic character.</br>
     <br>ft_isdigit - checks for a digit (0 through 9).</br>
     <br>ft_isalnum - checks for an alphanumeric character.</br>
     <br>ft_isascii - checks whether c fits into the ASCII character set.
