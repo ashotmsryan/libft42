@@ -17,12 +17,10 @@
 char	*ft_strtrim(char const *s1, const char *set)
 {
 	size_t	i; 
-	size_t	j;
 	char	*s;
 	size_t	g;
 
 	i = 0;
-	j = 0;
 	while (s1[i])
 	{	
 		if (ft_strchr(set, s1[i]) != 0)
