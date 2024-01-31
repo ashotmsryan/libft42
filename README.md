@@ -4,7 +4,7 @@
 standard functions. This project is about understanding the way these functions work, implementing and learning to use them. I created my own library by already existing or new function. This library includes a wide range of functions, from basic ones like string manipulations and memory management to more advanced ones for list handling and mathematical operations. The goal of libft42 is to provide a solid foundation for programming in C, offering a set of utility functions that can be used in various projects. Each function is carefully crafted, adhering to the 42 coding standards, and serves as a valuable resource for enhancing programming skills
 
 
-Functions from <ctype.h>
+</h2>Functions from <ctype.h></h2>
     ft_isalpha - checks for an alphabetic character.
     ft_isdigit - checks for a digit (0 through 9).
     ft_isalnum - checks for an alphanumeric character.
