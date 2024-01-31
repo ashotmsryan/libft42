@@ -12,9 +12,9 @@ standard functions. This project is about understanding the way these functions 
     ft_isascii - checks whether c fits into the ASCII character set.
     ft_isprint - checks for any printable character.
     ft_toupper - convert char to uppercase.
-    ft_tolower - convert char to lowercase.
-    </pre>
-Functions from <string.h>
+    ft_tolower - convert char to lowercase.</pre>
+<h3>Functions from string.h</h3>
+<pre>
     ft_memset - fill memory with a constant byte.
     ft_strlen - calculate the length of a string.
     ft_bzero - zero a byte string.
@@ -28,11 +28,13 @@ Functions from <string.h>
     ft_memchr - scan memory for a character.
     ft_memcmp - compare memory areas.
     ft_strnstr - locate a substring in a string.
-    ft_strdup - creates a dupplicate for the string passed as parameter.
-Functions from <stdlib.h>
+    ft_strdup - creates a dupplicate for the string passed as parameter.</pre>
+<h3>Functions from stdlib.h</h3>
+<pre>
     ft_atoi - convert a string to an integer.
-    ft_calloc - allocates memory and sets its bytes' values to 0.
-Non-standard functions
+    ft_calloc - allocates memory and sets its bytes' values to 0.</pre>
+<h3>Non-standard functions</h3>
+<pre>
     ft_substr - returns a substring from a string.
     ft_strjoin - concatenates two strings.
     ft_strtrim - trims the beginning and end of string with specific set of chars.
@@ -43,8 +45,9 @@ Non-standard functions
     ft_putchar_fd - output a char to a file descriptor.
     ft_putstr_fd - output a string to a file descriptor.
     ft_putendl_fd - output a string to a file descriptor, followed by a new line.
-    ft_putnbr_fd - output a number to a file descriptor.
-Linked list functions
+    ft_putnbr_fd - output a number to a file descriptor.</pre>
+<h3>Linked list functions</h3>
+<pre>
     ft_lstnew - creates a new list element.
     ft_lstadd_front - adds an element at the beginning of a list.
     ft_lstsize - counts the number of elements in a list.
@@ -52,6 +55,6 @@ Linked list functions
     ft_lstadd_back - adds an element at the end of a list.
     ft_lstclear - deletes and free list.
     ft_lstiter - applies a function to each element of a list.
-    ft_lstmap - applies a function to each element of a list.
+    ft_lstmap - applies a function to each element of a list.</pre>
 
 ...
