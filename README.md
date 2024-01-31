@@ -5,15 +5,15 @@ standard functions. This project is about understanding the way these functions 
 
 
 <h3>Functions from ctype.h </h3>
-    <p>
-    <br>ft_isalpha - checks for an alphabetic character.</br>
-    <br>ft_isdigit - checks for a digit (0 through 9).</br>
-    <br>ft_isalnum - checks for an alphanumeric character.</br>
-    <br>ft_isascii - checks whether c fits into the ASCII character set.
-    <br>ft_isprint - checks for any printable character.</br>
-    <br>ft_toupper - convert char to uppercase.</br>
-    <br>ft_tolower - convert char to lowercase.</br>
-    </p>
+    <pre>
+    ft_isalpha - checks for an alphabetic character.
+    ft_isdigit - checks for a digit (0 through 9).
+    ft_isalnum - checks for an alphanumeric character.
+    ft_isascii - checks whether c fits into the ASCII character set.
+    ft_isprint - checks for any printable character.
+    ft_toupper - convert char to uppercase.
+    ft_tolower - convert char to lowercase.
+    </pre>
 Functions from <string.h>
     ft_memset - fill memory with a constant byte.
     ft_strlen - calculate the length of a string.
